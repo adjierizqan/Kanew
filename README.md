@@ -2,9 +2,6 @@
 
 ### AI & Computer Vision Learner
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adjierizqan&label=Profile views&color=0e75b6&style=flat" alt="adjierizqan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adjierizqan" alt="adjierizqan" /></a> </p>
 
 - 🔭 I'm currently working on **Tomato ripeness detection and object detection research (YOLO, RT-DETR, ViT, etc.)**
 
